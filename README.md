@@ -19,7 +19,7 @@ A **healthcare-focused conversational assistant** built using **LLMs, Pinecone, 
 - Uses **vector embeddings** for context-aware responses.  
 - Designed for **scalability and real-world use** in healthcare scenarios.  
 
-🔗 [GitHub Repository](https://github.com/22mig) (Add direct repo link here if public)  
+🔗 [GitHub Repository](https://github.com/22mig) 
 
 ---
 
