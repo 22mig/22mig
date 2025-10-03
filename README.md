@@ -11,15 +11,24 @@
 ⚡ **Fun Fact:** I love coding challenges, hackathons, and exploring new tech stacks.  
 
 ---
+🚀 Excited to share my recent project – AI Agent Chatbot 🤖
 
-## 🚀 Recent Project:  
-### 🩺 Swasth Sarthi – GenAI MedBot  
-A **healthcare-focused conversational assistant** built using **LLMs, Pinecone, AWS, and GCP vector databases** for intelligent chunking and retrieval.  
-- Provides **AI-driven medical insights** and health-related query assistance.  
-- Uses **vector embeddings** for context-aware responses.  
-- Designed for **scalability and real-world use** in healthcare scenarios.  
+I built this using LangGraph, FastAPI, and Streamlit, along with Groq, Tavily, and OpenAI models to create a powerful and flexible chatbot.
 
-🔗 [GitHub Repository](https://github.com/22mig) 
+✨ Key highlights:
+
+FastAPI backend for request handling ⚡
+
+LangGraph agents with dynamic model selection 🔄
+
+Streamlit UI for a smooth user experience 🎨
+
+Integrated multiple LLMs for versatility (Groq, Tavily, OpenAI)
+
+This project reflects my journey into AI Engineering & GenAI development – combining backend APIs, agentic workflows, and an intuitive frontend.
+
+👉 Want to try it out or explore the code?
+🔗 GitHub Repo: [your repo link]
 
 ---
 
