@@ -38,11 +38,12 @@ This project reflects my journey into AI Engineering & GenAI development – com
 ---
 
 ## 💻 Tech Stack:  
-**Languages:** C++ | JavaScript | Java | Python | SQL | HTML5 | CSS3  
-**Backend:** Node.js | Express.js | JavaEE | Spring Boot  
-**Databases:** PostgreSQL | MongoDB | MySQL | Pinecone | AWS & GCP Vector DBs  
-**Frontend:** React.js | Redux | TailwindCSS | Material-UI  
-**Tools & Platforms:** Git | GitHub | Postman | Docker | Kubernetes | Firebase | Cloudinary | Azure | AWS | GCP  
+Languages: C++ | JavaScript | Java | Python | SQL | HTML5 | CSS3
+Backend: Node.js | Express.js | JavaEE | Spring Boot
+Databases: PostgreSQL | MongoDB | MySQL | Pinecone | AWS & GCP Vector DBs
+Frontend: React.js | Redux | TailwindCSS | Material-UI
+Cloud & Tools: Git | GitHub | Postman | Docker | Firebase | Cloudinary | Azure | AWS | GCP
+GenAI & AI Engineering: LangChain | LangGraph | RAG Pipelines | LLMs (OpenAI, Groq) | Prompt Engineering | Agentic Workflows | Vector Databases (Pinecone, Weaviate, Chroma) | Streamlit | FastAPI | Tavily API 
 
 ---
 
