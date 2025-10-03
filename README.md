@@ -40,12 +40,11 @@ This project reflects my journey into AI Engineering & GenAI development – com
 ## 💻 Tech Stack:  
 Languages: C++ | JavaScript | Java | Python | SQL | HTML5 | CSS3
 Backend: Node.js | Express.js | JavaEE | Spring Boot
-Databases: PostgreSQL | MongoDB | MySQL | Pinecone | AWS & GCP Vector DBs
+Databases: PostgreSQL | MongoDB | MySQL | Pinecone | AWS Vector DBs | GCP Vector DBs
 Frontend: React.js | Redux | TailwindCSS | Material-UI
 Cloud & Tools: Git | GitHub | Postman | Docker | Firebase | Cloudinary | Azure | AWS | GCP
-GenAI & AI Engineering: LangChain | LangGraph | RAG Pipelines | LLMs (OpenAI, Groq) | Prompt Engineering | Agentic Workflows | Vector Databases (Pinecone, Weaviate, Chroma) | Streamlit | FastAPI | Tavily API 
----
-
+GenAI & AI Engineering: LangChain | LangGraph | LLMs (OpenAI, Groq) | RAG Pipelines | Vector Databases | Streamlit | FastAPI
+--
 ## 📊 GitHub Stats:  
 ![Migul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22mig&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=22mig&layout=compact&theme=radical)  
